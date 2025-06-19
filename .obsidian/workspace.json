@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "f3808abe00e3ad72",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8aadcfcf297d48f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916ccfdfeb987886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drawings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drawings"
+            }
+          },
+          {
+            "id": "7ede9a2d4388c13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chess Pieces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chess Pieces"
+            }
+          },
+          {
+            "id": "7e506261e1661480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rooms/Blue/Mail Room.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mail Room"
+            }
+          },
+          {
+            "id": "4b2f680c0e5afd91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rooms/Blue/Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study"
+            }
+          },
+          {
+            "id": "e07f8e66fe4d9ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rooms/Blue/Music Room.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music Room"
+            }
+          },
+          {
+            "id": "038e59204f92003f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sheet Music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sheet Music"
+            }
+          },
+          {
+            "id": "abf23cc49088fe70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rooms/Green/Greenhouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greenhouse"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dec11e2d8988c3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7792b49d13992773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af8ff2d86338a29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37f5762c45eef813",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07265a7b2e3270a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.505859375
+  },
+  "right": {
+    "id": "d5b0c68e5dc44324",
+    "type": "split",
+    "children": [
+      {
+        "id": "832f0320edcbfbd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e1279b47dc7068b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "56b823863169d80e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "17b468cba00f19cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5a0552e43dbfe89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e506261e1661480",
+  "lastOpenFiles": [
+    "Screenshots/Pasted image 20250607022240.png",
+    "Rooms/Laboratory.md",
+    "Rooms/Blue/Mail Room.md",
+    "Screenshots/Pasted image 20250607021659.png",
+    "Rooms/Red/Lavatory.md",
+    "Rooms/Brown/Foyer.md",
+    "Chess Pieces.md",
+    "Drawings.md",
+    "Rooms/Purple/Servant's Quarters.md",
+    "Rooms/Blue/Study.md",
+    "Screenshots/Pasted image 20250607020010.png",
+    "Screenshots/Pasted image 20250607020001.png",
+    "Screenshots/Pasted image 20250607015952.png",
+    "Screenshots/Pasted image 20250607015937.png",
+    "Screenshots/Pasted image 20250607015927.png",
+    "Screenshots/Pasted image 20250607015916.png",
+    "Rooms/Garage.md",
+    "Rooms/Brown",
+    "Rooms/Dining Room.md",
+    "Rooms/Outside/The Precipice.md",
+    "Rooms/Blue/Vault.md",
+    "Screenshots/Pasted image 20250607010222.png",
+    "Date.md",
+    "Puzzle games/Dart Game.md",
+    "Books/A Sightseer's Guide to Reddington.md",
+    "Screenshots/Pasted image 20250607004510.png",
+    "Screenshots/Pasted image 20250607004438.png",
+    "Rooms/Blue/Locker Room.md",
+    "Rooms/Yellow/Commissary.md",
+    "Books/Swim Bird.md",
+    "Rooms/Rumpus Room.md",
+    "Rooms/Green/Greenhouse.md",
+    "Sheet Music.md",
+    "Rooms/Green/Morning Room.md",
+    "Rooms/Blue/Music Room.md",
+    "Rooms/Blue/Wine Cellar.md",
+    "Rooms/Yellow/Bookshop.md",
+    "Rooms/Classrooms",
+    "Books",
+    "Rooms/Outside",
+    "Rooms/Yellow",
+    "Rooms/Blue",
+    "People",
+    "Screenshots",
+    "Rooms/Green",
+    "Rooms/Purple"
+  ]
+}
