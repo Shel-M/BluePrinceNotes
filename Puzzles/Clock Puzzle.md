@@ -7,3 +7,12 @@
 ![[Pasted image 20250621002515.png]]
 ![[Pasted image 20250621002527.png]]
 
+First attempt - fail, left to right
+9:00
+8:00
+7:55
+7:50
+7:00
+6:00
+5:57
+5:00
