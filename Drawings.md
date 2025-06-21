@@ -45,6 +45,7 @@ Paint Can w/ Brush #C7
 [[Pasted image 20250531225006.png|Painted World]] #C6
 [[Pasted image 20250531220920.png|Peapod]] #E3
 [[Pasted image 20250531224722.png|Pilot]] #B5
+Rain Cloud #A6
 [[Pasted image 20250531213315.png|Queen of Diamonds]] #C1 #A4
 Hands praying the rosary #B1
 [[Pasted image 20250531212512.png|Sand Dunes]]  #A1  #E4
@@ -56,6 +57,7 @@ Tiger #C5
 [[Pasted image 20250531212211.png|Tree]] #D1 #D4 #A7 
 [[Pasted image 20250531224522.png|Vial]] #A5 
 [[Pasted image 20250531234314.png|Window]] #E7
+Wheat #A6
 
 
 Peapod with Mountain
