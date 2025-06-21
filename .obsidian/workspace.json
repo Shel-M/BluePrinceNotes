@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Clock Tower.md",
+                "file": "Rooms/Outside/Schoolhouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clock Tower"
+              "title": "Schoolhouse"
             }
           }
         ],
@@ -293,12 +293,16 @@
   },
   "active": "5b33a73757acf948",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250621020848.png",
+    "Screenshots/Pasted image 20250621020821.png",
+    "Rooms/Classroom.md",
+    "Rooms/Outside/Schoolhouse.md",
+    "Rooms/Blue/Clock Tower.md",
     "Screenshots/Pasted image 20250621015514.png",
     "Rooms/Blue/Pump Room.md",
     "Rooms/Underground/Reservoir.md",
     "Screenshots/Pasted image 20250621014706.png",
     "Screenshots/Pasted image 20250621014137.png",
-    "Rooms/Blue/Clock Tower.md",
     "Puzzles/Grid Letters.md",
     "Screenshots/Pasted image 20250621013116.png",
     "Drawings.md",
@@ -310,8 +314,6 @@
     "Screenshots/Pasted image 20250621010943.png",
     "Screenshots/Pasted image 20250531224722.png",
     "Screenshots/Pasted image 20250621002527.png",
-    "Screenshots/Pasted image 20250621002515.png",
-    "Screenshots/Pasted image 20250621002507.png",
     "Sheet Music.md",
     "Rooms/Green/Greenhouse.md",
     "Books/Drafting Strategy Volume 5.md",
@@ -330,8 +332,6 @@
     "Rooms/Brown",
     "Rooms/Dining Room.md",
     "Rooms/Outside/The Precipice.md",
-    "Rooms/Blue/Vault.md",
-    "Date.md",
     "Rooms/Classrooms",
     "Books",
     "Rooms/Outside",
