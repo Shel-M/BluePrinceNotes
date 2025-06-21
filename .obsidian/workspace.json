@@ -139,8 +139,7 @@
               "title": "Drawings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#B1",
+                "query": "#D8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,7 +289,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e5d670de40429b5",
+  "active": "7ede9a2d4388c13f",
   "lastOpenFiles": [
     "Puzzles/Grid Letters.md",
     "Drawings.md",
