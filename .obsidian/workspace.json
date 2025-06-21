@@ -130,15 +130,18 @@
             "id": "5b33a73757acf948",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshots/Pasted image 20250531224722.png"
+                "file": "Puzzles/Clock Puzzle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250531224722"
+              "icon": "lucide-file",
+              "title": "Clock Puzzle"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,8 +291,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "038e59204f92003f",
+  "active": "5b33a73757acf948",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250531224722.png",
+    "Puzzles/Grid Letters.md",
+    "Puzzles/Clock Puzzle.md",
     "Screenshots/Pasted image 20250621002527.png",
     "Screenshots/Pasted image 20250621002515.png",
     "Screenshots/Pasted image 20250621002507.png",
@@ -299,14 +305,11 @@
     "Screenshots/Pasted image 20250621002359.png",
     "Screenshots/Pasted image 20250621002351.png",
     "Rooms/Blue/Clock Tower.md",
-    "Puzzles/Clock Puzzle.md",
     "Sheet Music.md",
-    "Puzzles/Grid Letters.md",
     "Drawings.md",
     "Screenshots/Pasted image 20250620235312.png",
     "Angels.md",
     "Screenshots/Pasted image 20250620233728.png",
-    "Screenshots/Pasted image 20250531224757.png",
     "Rooms/Green/Greenhouse.md",
     "Books/Drafting Strategy Volume 5.md",
     "Rooms/Blue/Workshop.md",
