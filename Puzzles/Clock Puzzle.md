@@ -16,3 +16,9 @@ First attempt - fail, left to right
 6:00
 5:57
 5:00
+
+
+Clocks 'on the hour'
+- 1
+- 5 - must be 7:00
+- 8
