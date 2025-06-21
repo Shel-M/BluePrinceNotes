@@ -105,8 +105,7 @@
               "title": "Greenhouse"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,16 +253,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e506261e1661480",
+  "active": "916ccfdfeb987886",
   "lastOpenFiles": [
+    "Rooms/Blue/Attic.md",
+    "Screenshots/Pasted image 20250620221149.png",
+    "Drawings.md",
+    "Rooms/Blue/Mail Room.md",
     "Screenshots/Pasted image 20250607022240.png",
     "Rooms/Laboratory.md",
-    "Rooms/Blue/Mail Room.md",
     "Screenshots/Pasted image 20250607021659.png",
     "Rooms/Red/Lavatory.md",
     "Rooms/Brown/Foyer.md",
     "Chess Pieces.md",
-    "Drawings.md",
     "Rooms/Purple/Servant's Quarters.md",
     "Rooms/Blue/Study.md",
     "Screenshots/Pasted image 20250607020010.png",
@@ -281,8 +282,6 @@
     "Date.md",
     "Puzzle games/Dart Game.md",
     "Books/A Sightseer's Guide to Reddington.md",
-    "Screenshots/Pasted image 20250607004510.png",
-    "Screenshots/Pasted image 20250607004438.png",
     "Rooms/Blue/Locker Room.md",
     "Rooms/Yellow/Commissary.md",
     "Books/Swim Bird.md",
@@ -292,7 +291,6 @@
     "Rooms/Green/Morning Room.md",
     "Rooms/Blue/Music Room.md",
     "Rooms/Blue/Wine Cellar.md",
-    "Rooms/Yellow/Bookshop.md",
     "Rooms/Classrooms",
     "Books",
     "Rooms/Outside",
