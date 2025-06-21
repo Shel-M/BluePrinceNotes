@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawings.md",
+                "file": "Rooms/Blue/Ballroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawings"
+              "title": "Ballroom"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#D8",
+                "query": "#D7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,10 +289,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ede9a2d4388c13f",
+  "active": "37f5762c45eef813",
   "lastOpenFiles": [
-    "Puzzles/Grid Letters.md",
+    "Rooms/Blue/Ballroom.md",
+    "Sheet Music.md",
+    "Screenshots/Pasted image 20250620231655.png",
+    "Screenshots/Pasted image 20250620231646.png",
+    "Screenshots/Pasted image 20250620231621.png",
     "Drawings.md",
+    "Puzzles/Grid Letters.md",
+    "Screenshots/Pasted image 20250601022443.png",
     "Screenshots/Pasted image 20250531233826.png",
     "Screenshots/Pasted image 20250601022738.png",
     "Chess Pieces.md",
@@ -302,10 +308,6 @@
     "Screenshots/Pasted image 20250620223259.png",
     "Screenshots/Pasted image 20250620223246.png",
     "Screenshots/Pasted image 20250620223231.png",
-    "Screenshots/Pasted image 20250620223219.png",
-    "Screenshots/Pasted image 20250620223156.png",
-    "Screenshots/Pasted image 20250620223142.png",
-    "Screenshots/Pasted image 20250620223108.png",
     "Rooms/Blue/Attic.md",
     "Rooms/Blue/Mail Room.md",
     "Rooms/Laboratory.md",
@@ -326,8 +328,6 @@
     "Books/Swim Bird.md",
     "Rooms/Rumpus Room.md",
     "Rooms/Green/Greenhouse.md",
-    "Sheet Music.md",
-    "Rooms/Green/Morning Room.md",
     "Rooms/Classrooms",
     "Books",
     "Rooms/Outside",
