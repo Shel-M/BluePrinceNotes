@@ -113,35 +113,18 @@
             }
           },
           {
-            "id": "7e5d670de40429b5",
+            "id": "e0f19e667e651c83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Drawings.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshots/Pasted image 20250620232546.png"
               },
-              "icon": "lucide-file",
-              "title": "Drawings"
-            }
-          },
-          {
-            "id": "5b33a73757acf948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rooms/Outside/Schoolhouse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schoolhouse"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250620232546"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#E7",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,12 +177,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.505859375
+    "width": 348.505859375
   },
   "right": {
     "id": "d5b0c68e5dc44324",
@@ -291,21 +273,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b33a73757acf948",
+  "active": "916ccfdfeb987886",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250620232546.png",
+    "Puzzles/Grid Letters.md",
+    "Drawings.md",
+    "Rooms/Outside/Schoolhouse.md",
     "Screenshots/Pasted image 20250621020848.png",
     "Screenshots/Pasted image 20250621020821.png",
     "Rooms/Classroom.md",
-    "Rooms/Outside/Schoolhouse.md",
     "Rooms/Blue/Clock Tower.md",
     "Screenshots/Pasted image 20250621015514.png",
     "Rooms/Blue/Pump Room.md",
     "Rooms/Underground/Reservoir.md",
     "Screenshots/Pasted image 20250621014706.png",
     "Screenshots/Pasted image 20250621014137.png",
-    "Puzzles/Grid Letters.md",
     "Screenshots/Pasted image 20250621013116.png",
-    "Drawings.md",
     "Rooms/Underground",
     "Screenshots/Pasted image 20250621011701.png",
     "Angels.md",
@@ -313,7 +296,6 @@
     "Puzzles/Clock Puzzle.md",
     "Screenshots/Pasted image 20250621010943.png",
     "Screenshots/Pasted image 20250531224722.png",
-    "Screenshots/Pasted image 20250621002527.png",
     "Sheet Music.md",
     "Rooms/Green/Greenhouse.md",
     "Books/Drafting Strategy Volume 5.md",
