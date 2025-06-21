@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Pump Room.md",
+                "file": "Rooms/Blue/Clock Tower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pump Room"
+              "title": "Clock Tower"
             }
           }
         ],
@@ -293,9 +293,12 @@
   },
   "active": "5b33a73757acf948",
   "lastOpenFiles": [
+    "Rooms/Blue/Pump Room.md",
+    "Rooms/Underground/Reservoir.md",
+    "Screenshots/Pasted image 20250621014706.png",
+    "Screenshots/Pasted image 20250621014137.png",
     "Rooms/Blue/Clock Tower.md",
     "Puzzles/Grid Letters.md",
-    "Rooms/Underground/Reservoir.md",
     "Screenshots/Pasted image 20250621013116.png",
     "Drawings.md",
     "Rooms/Underground",
@@ -308,8 +311,6 @@
     "Screenshots/Pasted image 20250621002527.png",
     "Screenshots/Pasted image 20250621002515.png",
     "Screenshots/Pasted image 20250621002507.png",
-    "Screenshots/Pasted image 20250621002456.png",
-    "Screenshots/Pasted image 20250621002420.png",
     "Sheet Music.md",
     "Rooms/Green/Greenhouse.md",
     "Books/Drafting Strategy Volume 5.md",
@@ -330,7 +331,6 @@
     "Rooms/Outside/The Precipice.md",
     "Rooms/Blue/Vault.md",
     "Date.md",
-    "Puzzle games/Dart Game.md",
     "Rooms/Classrooms",
     "Books",
     "Rooms/Outside",
