@@ -78,3 +78,15 @@ D4 - F
 B7 - M
 - Tie
 - Time
+
+B3 - R
+- Tie
+- Tier
+
+A3- C
+- Crow 
+- Row
+
+B9 - F
+- Light
+- Flight
