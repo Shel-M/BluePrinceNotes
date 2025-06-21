@@ -74,3 +74,7 @@ C2 - G
 D4 - F
 - Fir
 - Fire
+
+B7 - M
+- Tie
+- Time
