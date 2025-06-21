@@ -124,8 +124,23 @@
               "icon": "lucide-file",
               "title": "Grid Letters"
             }
+          },
+          {
+            "id": "7e5d670de40429b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drawings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drawings"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#B1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +193,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,10 +290,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ede9a2d4388c13f",
+  "active": "7e5d670de40429b5",
   "lastOpenFiles": [
     "Puzzles/Grid Letters.md",
     "Drawings.md",
+    "Screenshots/Pasted image 20250531233826.png",
+    "Screenshots/Pasted image 20250601022738.png",
     "Chess Pieces.md",
     "Puzzles",
     "Books/Drafting Strategy Volume 5.md",
@@ -290,9 +308,7 @@
     "Screenshots/Pasted image 20250620223142.png",
     "Screenshots/Pasted image 20250620223108.png",
     "Rooms/Blue/Attic.md",
-    "Screenshots/Pasted image 20250620221149.png",
     "Rooms/Blue/Mail Room.md",
-    "Screenshots/Pasted image 20250607022240.png",
     "Rooms/Laboratory.md",
     "Rooms/Red/Lavatory.md",
     "Rooms/Brown/Foyer.md",
@@ -313,7 +329,6 @@
     "Rooms/Green/Greenhouse.md",
     "Sheet Music.md",
     "Rooms/Green/Morning Room.md",
-    "Rooms/Blue/Music Room.md",
     "Rooms/Classrooms",
     "Books",
     "Rooms/Outside",
