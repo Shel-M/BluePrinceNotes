@@ -9,6 +9,9 @@ Foreman's Log 20
 ---
 ![[Pasted image 20250628000541.png]]
 
+Foreman's Log 608 (Actually in Reservoir)
+---
+![[Pasted image 20250628011307.png]]
 Realm & ...
 ---
 ![[Pasted image 20250531231059.png]]
