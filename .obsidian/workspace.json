@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sheet Music.md",
+                "file": "Rooms/Classrooms/Classroom 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sheet Music"
+              "title": "Classroom 3"
             }
           },
           {
@@ -275,6 +275,10 @@
   },
   "active": "038e59204f92003f",
   "lastOpenFiles": [
+    "Rooms/Rumpus Room.md",
+    "Rooms/Classrooms/Classroom 3.md",
+    "Rooms/Drawing Room.md",
+    "Sheet Music.md",
     "Rooms/Blue/Ballroom.md",
     "Rooms/Blue/Study.md",
     "Rooms/Underground/Reservoir.md",
@@ -297,7 +301,6 @@
     "Screenshots/Pasted image 20250531224522.png",
     "Puzzles/Clock Puzzle.md",
     "Screenshots/Pasted image 20250621010943.png",
-    "Sheet Music.md",
     "Rooms/Green/Greenhouse.md",
     "Books/Drafting Strategy Volume 5.md",
     "Rooms/Blue/Workshop.md",
@@ -311,8 +314,6 @@
     "Rooms/Purple/Servant's Quarters.md",
     "Rooms/Garage.md",
     "Rooms/Brown",
-    "Rooms/Dining Room.md",
-    "Rooms/Outside/The Precipice.md",
     "Rooms/Classrooms",
     "Books",
     "Rooms/Outside",

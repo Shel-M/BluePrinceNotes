@@ -20,4 +20,4 @@ I see a shadow in the doorway (dark room) Silent footsteps in the hallways... An
 A missing item you did not take (Entry hall, the lantern on the table is missing)
 I see a young boy watched from afar.
 A young boy who once was brave, but now, afraid...
-What you have heard here has been forseen.
+What you have heard here has been foreseen
