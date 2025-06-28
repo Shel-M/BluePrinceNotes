@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Outside/Shrine.md",
+                "file": "Rooms/Blue/Freezer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "Freezer"
             }
           }
         ],
@@ -291,8 +291,15 @@
   },
   "active": "557d6ffe426a7855",
   "lastOpenFiles": [
-    "Rooms/Purple/Master Bedroom.md",
+    "Screenshots/Pasted image 20250628001130.png",
+    "Screenshots/Pasted image 20250628001051.png",
+    "Screenshots/Pasted image 20250628001029.png",
+    "Rooms/Blue/Freezer.md",
+    "Rooms/Outside/The Precipice.md",
+    "Chess Pieces.md",
+    "Screenshots/Pasted image 20250628000541.png",
     "Rooms/Outside/Shrine.md",
+    "Rooms/Purple/Master Bedroom.md",
     "Rooms/Blue/Ballroom.md",
     "Sheet Music.md",
     "Rooms/Tomb.md",
@@ -310,12 +317,8 @@
     "Date.md",
     "Rooms/Purple/Her Ladyship's Chamber.md",
     "Screenshots/Pasted image 20250627213132.png",
-    "Screenshots/Pasted image 20250627213048.png",
     "Rooms/Classrooms/Classroom 5.md",
-    "Screenshots/Pasted image 20250627212802.png",
-    "Screenshots/Pasted image 20250627212742.png",
     "Books/History of Orindia - Censored.md",
-    "Rooms/Outside/The Precipice.md",
     "Rooms/Classrooms/Classroom 4.md",
     "Rooms/Classrooms/Classroom 3.md",
     "Rooms/Drawing Room.md",
@@ -325,10 +328,7 @@
     "Drawings.md",
     "Rooms/Outside/Schoolhouse.md",
     "Rooms/Classroom.md",
-    "Rooms/Blue/Clock Tower.md",
-    "Rooms/Blue/Pump Room.md",
     "Rooms/Underground",
-    "Angels.md",
     "Puzzles",
     "Rooms/Brown",
     "Rooms/Classrooms",

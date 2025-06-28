@@ -4,6 +4,11 @@ Chess Puzzle
 Foreman's Log 3
 ---
 ![[Pasted image 20250531230845.png]]
+
+Foreman's Log 20
+---
+![[Pasted image 20250628000541.png]]
+
 Realm & ...
 ---
 ![[Pasted image 20250531231059.png]]
