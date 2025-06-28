@@ -1,6 +1,7 @@
 Key is B-Flat Major
 
-Bolded words - 
+Bolded words - First words on the sheets are true message
+Find among the white trees under two stones
 
 ![[Pasted image 20250601024223.png]]
 ![[Pasted image 20250601024232.png]]
