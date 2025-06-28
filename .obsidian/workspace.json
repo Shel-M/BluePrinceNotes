@@ -6,7 +6,7 @@
       {
         "id": "e8aadcfcf297d48f",
         "type": "tabs",
-        "dimension": 62.12624584717608,
+        "dimension": 52.57475083056479,
         "children": [
           {
             "id": "7ede9a2d4388c13f",
@@ -112,7 +112,7 @@
       {
         "id": "cde1bd80f88f6c86",
         "type": "tabs",
-        "dimension": 37.87375415282392,
+        "dimension": 47.42524916943522,
         "children": [
           {
             "id": "916ccfdfeb987886",
@@ -289,12 +289,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "557d6ffe426a7855",
+  "active": "916ccfdfeb987886",
   "lastOpenFiles": [
+    "Rooms/Blue/Freezer.md",
+    "Screenshots/Pasted image 20250628001435.png",
+    "Screenshots/Pasted image 20250628001324.png",
+    "Screenshots/Pasted image 20250628001302.png",
+    "Screenshots/Pasted image 20250628001230.png",
+    "Screenshots/Pasted image 20250628001211.png",
     "Screenshots/Pasted image 20250628001130.png",
     "Screenshots/Pasted image 20250628001051.png",
     "Screenshots/Pasted image 20250628001029.png",
-    "Rooms/Blue/Freezer.md",
     "Rooms/Outside/The Precipice.md",
     "Chess Pieces.md",
     "Screenshots/Pasted image 20250628000541.png",
@@ -304,19 +309,13 @@
     "Sheet Music.md",
     "Rooms/Tomb.md",
     "Screenshots/Pasted image 20250627221752.png",
-    "Screenshots/Pasted image 20250627220239.png",
     "Rooms/Rumpus Room.md",
     "Rooms/Shelter.md",
     "Red Letters/Seven.md",
-    "Screenshots/Pasted image 20250627215500.png",
-    "Screenshots/Pasted image 20250627215351.png",
-    "Screenshots/Pasted image 20250627215257.png",
-    "Screenshots/Pasted image 20250627215245.png",
     "Red Letter.md",
     "Red Letters",
     "Date.md",
     "Rooms/Purple/Her Ladyship's Chamber.md",
-    "Screenshots/Pasted image 20250627213132.png",
     "Rooms/Classrooms/Classroom 5.md",
     "Books/History of Orindia - Censored.md",
     "Rooms/Classrooms/Classroom 4.md",
