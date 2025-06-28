@@ -1,0 +1,1 @@
+There's a copy of the Red Prince, it has a [[Magnifying Text]] instance in it.

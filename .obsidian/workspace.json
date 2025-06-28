@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Ballroom.md",
+                "file": "Rooms/Purple/Master Bedroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ballroom"
+              "title": "Master Bedroom"
             }
           }
         ],
@@ -291,6 +291,8 @@
   },
   "active": "557d6ffe426a7855",
   "lastOpenFiles": [
+    "Rooms/Blue/Ballroom.md",
+    "Rooms/Purple/Master Bedroom.md",
     "Sheet Music.md",
     "Rooms/Tomb.md",
     "Screenshots/Pasted image 20250627221752.png",
@@ -304,7 +306,6 @@
     "Screenshots/Pasted image 20250627215245.png",
     "Red Letter.md",
     "Red Letters",
-    "Rooms/Blue/Ballroom.md",
     "Date.md",
     "Rooms/Purple/Her Ladyship's Chamber.md",
     "Screenshots/Pasted image 20250627213132.png",
@@ -328,7 +329,6 @@
     "Rooms/Underground",
     "Angels.md",
     "Puzzles/Clock Puzzle.md",
-    "Rooms/Green/Greenhouse.md",
     "Puzzles",
     "Rooms/Brown",
     "Rooms/Classrooms",
