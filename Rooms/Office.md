@@ -13,3 +13,7 @@ Black - March of the Count
 Red - Fall of the Lord
 Red - Passing of the Barons
 Red - Herrings of the Major (Maybe 'Hearings')
+
+Safe Hint
+---
+![[Pasted image 20250628003335.png]]
