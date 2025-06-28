@@ -21,3 +21,9 @@ A missing item you did not take (Entry hall, the lantern on the table is missing
 I see a young boy watched from afar.
 A young boy who once was brave, but now, afraid...
 What you have heard here has been foreseen
+
+And as it was foretold...
+The image is becoming clear. I hear the pattering steps of children running in the forest. 
+The joyful echos of laughter in the corridor. I see an old man, an old man sitting in an older char.
+A seat that has served many generations. Each with their own stories, each with their own secrets, each with their own endings. 
+But all, in the same chair.
