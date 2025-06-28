@@ -1,3 +1,4 @@
+![[Pasted image 20250627221752.png]]
 
 Somber Letter From Sinclair
 ---
