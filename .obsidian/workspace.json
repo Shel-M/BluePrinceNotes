@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Letters/Eight.md",
+                "file": "Rooms/Laboratory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eight"
+              "title": "Laboratory"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Room 46.md",
+                "file": "Rooms/Classrooms/Classroom 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room 46"
+              "title": "Classroom 3"
             }
           },
           {
@@ -221,14 +221,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26d31c06444a04f1",
+  "active": "2b8ba8659380a457",
   "lastOpenFiles": [
+    "Books/EPCW Pump System User Manual.md",
+    "Rooms/Blue/Pump Room.md",
+    "Rooms/Room 46.md",
+    "Rooms/Laboratory.md",
+    "Red Letters/Eight.md",
     "Screenshots/Pasted image 20250801215839.png",
     "Screenshots/Pasted image 20250801215748.png",
     "Screenshots/Pasted image 20250801215649.png",
-    "Rooms/Room 46.md",
     "Rooms/Office.md",
-    "Red Letters/Eight.md",
     "Screenshots/Pasted image 20250801215534.png",
     "Red Letter.md",
     "Rooms/Brown/Foyer.md",
@@ -247,7 +250,6 @@
     "Rooms/Classrooms/Classroom 1.md",
     "Screenshots/Pasted image 20250801211758.png",
     "Screenshots/Pasted image 20250801211734.png",
-    "Screenshots/Pasted image 20250801211628.png",
     "Rooms/Classrooms/Classroom 6.md",
     "Rooms/Blue/Mail Room.md",
     "Rooms/Blue/Study.md",
@@ -257,8 +259,6 @@
     "Safes.md",
     "Rooms/Root Cellar.md",
     "Puzzles/Grid Letters.md",
-    "Rooms/Blue/Wine Cellar.md",
-    "Rooms/Outside/The Precipice.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
