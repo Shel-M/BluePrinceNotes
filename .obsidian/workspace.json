@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Terminal password options"
             }
+          },
+          {
+            "id": "0f77f6c79b5fedb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rooms/Outside/Shrine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shrine"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,8 +256,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b6431768f0b0cb1",
+  "active": "0f77f6c79b5fedb1",
   "lastOpenFiles": [
+    "Terminal password options.md",
     "Rooms/Green/Cloister.md",
     "Screenshots/Pasted image 20250801233708.png",
     "Sheet Music.md",
@@ -258,7 +273,6 @@
     "Rooms/Blue/Clock Tower.md",
     "Rooms/Conservatory.md",
     "Rooms/Security.md",
-    "Terminal password options.md",
     "Screenshots/Pasted image 20250801230149.png",
     "Screenshots/Pasted image 20250801230134.png",
     "Screenshots/Pasted image 20250801230104.png",
