@@ -6,6 +6,7 @@
       {
         "id": "71487ed3e4c5246c",
         "type": "tabs",
+        "dimension": 51.993355481727576,
         "children": [
           {
             "id": "26d31c06444a04f1",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Classrooms/Classroom 7.md",
+                "file": "Red Letters/Eight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classroom 7"
+              "title": "Eight"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "67b14c7888df813a",
         "type": "tabs",
+        "dimension": 48.006644518272424,
         "children": [
           {
             "id": "2b8ba8659380a457",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Hovel.md",
+                "file": "Rooms/Room 46.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hovel"
+              "title": "Room 46"
             }
           },
           {
@@ -219,8 +221,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2b8ba8659380a457",
+  "active": "26d31c06444a04f1",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250801215839.png",
+    "Screenshots/Pasted image 20250801215748.png",
+    "Screenshots/Pasted image 20250801215649.png",
+    "Rooms/Room 46.md",
+    "Rooms/Office.md",
+    "Red Letters/Eight.md",
+    "Screenshots/Pasted image 20250801215534.png",
+    "Red Letter.md",
+    "Rooms/Brown/Foyer.md",
+    "Rooms/Entrance Hall.md",
+    "Rooms/Blue/Ballroom.md",
+    "Rooms/Classrooms/Classroom 7.md",
+    "Rooms/Hovel.md",
     "Screenshots/Pasted image 20250801214702.png",
     "Rooms/Classrooms/Classroom 2.md",
     "Rooms/Blue/Clock Tower.md",
@@ -228,35 +243,22 @@
     "Rooms/Classrooms/Drawing 2025-08-01 21.35.28.excalidraw.md",
     "Rooms/Conservatory.md",
     "Screenshots/Pasted image 20250801213000.png",
-    "Rooms/Classrooms/Classroom 7.md",
     "Screenshots/Pasted image 20250801212123.png",
     "Rooms/Classrooms/Classroom 1.md",
     "Screenshots/Pasted image 20250801211758.png",
     "Screenshots/Pasted image 20250801211734.png",
     "Screenshots/Pasted image 20250801211628.png",
     "Rooms/Classrooms/Classroom 6.md",
-    "Screenshots/Pasted image 20250801211143.png",
-    "Screenshots/Pasted image 20250801211118.png",
-    "Screenshots/Pasted image 20250801211102.png",
-    "Screenshots/Pasted image 20250801211001.png",
-    "Rooms/Office.md",
-    "Rooms/Blue/Ballroom.md",
     "Rooms/Blue/Mail Room.md",
     "Rooms/Blue/Study.md",
     "Rooms/Blue/Music Room.md",
     "Rooms/Classrooms/Classroom 4.md",
     "Angels.md",
     "Safes.md",
-    "Rooms/Brown/Foyer.md",
     "Rooms/Root Cellar.md",
     "Puzzles/Grid Letters.md",
     "Rooms/Blue/Wine Cellar.md",
-    "Rooms/Room 46.md",
     "Rooms/Outside/The Precipice.md",
-    "Red Letters/Six.md",
-    "Rooms/Drawing Room.md",
-    "Rooms/Blue/Freezer.md",
-    "Red Letters/Four.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
