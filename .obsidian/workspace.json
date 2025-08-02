@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Classrooms/Classroom 2.md",
+                "file": "Rooms/Hovel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classroom 2"
+              "title": "Hovel"
             }
           },
           {
@@ -59,16 +59,17 @@
             "id": "b0e1c3fde82bbccd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Rooms/Classrooms/Drawing 2025-08-01 21.35.28.excalidraw.md"
+                "file": "Rooms/Blue/Clock Tower.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-01 21.35.28.excalidraw"
+              "icon": "lucide-file",
+              "title": "Clock Tower"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +219,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b0e1c3fde82bbccd",
+  "active": "2b8ba8659380a457",
   "lastOpenFiles": [
-    "Rooms/Conservatory.md",
-    "Rooms/Classrooms/Drawing 2025-08-01 21.35.28.excalidraw.md",
-    "Screenshots/Pasted image 20250801213000.png",
+    "Screenshots/Pasted image 20250801214702.png",
     "Rooms/Classrooms/Classroom 2.md",
+    "Rooms/Blue/Clock Tower.md",
+    "Screenshots/Pasted image 20250801214242.png",
+    "Rooms/Classrooms/Drawing 2025-08-01 21.35.28.excalidraw.md",
+    "Rooms/Conservatory.md",
+    "Screenshots/Pasted image 20250801213000.png",
     "Rooms/Classrooms/Classroom 7.md",
     "Screenshots/Pasted image 20250801212123.png",
     "Rooms/Classrooms/Classroom 1.md",
@@ -235,7 +239,6 @@
     "Screenshots/Pasted image 20250801211118.png",
     "Screenshots/Pasted image 20250801211102.png",
     "Screenshots/Pasted image 20250801211001.png",
-    "Screenshots/Pasted image 20250801210907.png",
     "Rooms/Office.md",
     "Rooms/Blue/Ballroom.md",
     "Rooms/Blue/Mail Room.md",
@@ -254,8 +257,6 @@
     "Rooms/Drawing Room.md",
     "Rooms/Blue/Freezer.md",
     "Red Letters/Four.md",
-    "Chess Pieces.md",
-    "Rooms/Outside/Shrine.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
