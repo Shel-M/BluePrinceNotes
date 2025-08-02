@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Outside/Shrine.md",
+                "file": "Rooms/Classrooms/Classroom 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shrine"
+              "title": "Classroom 4"
             }
           }
         ],
@@ -258,6 +258,10 @@
   },
   "active": "0f77f6c79b5fedb1",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250802002237.png",
+    "Screenshots/Pasted image 20250802002130.png",
+    "Screenshots/Pasted image 20250802002101.png",
+    "Rooms/Outside/Shrine.md",
     "Terminal password options.md",
     "Rooms/Green/Cloister.md",
     "Screenshots/Pasted image 20250801233708.png",
@@ -277,8 +281,6 @@
     "Screenshots/Pasted image 20250801230134.png",
     "Screenshots/Pasted image 20250801230104.png",
     "Screenshots/Pasted image 20250801230037.png",
-    "Screenshots/Pasted image 20250801230024.png",
-    "Screenshots/Pasted image 20250801225955.png",
     "Rooms/Laboratory.md",
     "Rooms/Classrooms/Classroom 3.md",
     "Books/EPCW Pump System User Manual.md",
@@ -292,7 +294,6 @@
     "Rooms/Blue/Ballroom.md",
     "Rooms/Hovel.md",
     "Rooms/Classrooms/Classroom 2.md",
-    "Rooms/Classrooms/Drawing 2025-08-01 21.35.28.excalidraw.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
