@@ -1,4 +1,4 @@
-[[Chess Pieces|King]]
+[[Chess Pieces|Queen]]
 
 [[Safes|Safe]]
 ![[Pasted image 20250601020840.png]]

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Letters/Two.md",
+                "file": "Rooms/Blue/Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two"
+              "title": "Study"
             }
           }
         ],
@@ -272,10 +272,10 @@
   },
   "active": "304d4d167a75b8db",
   "lastOpenFiles": [
+    "Red Letters/Two.md",
     "Screenshots/Pasted image 20250822224951.png",
     "Screenshots/Pasted image 20250822224907.png",
     "Rooms/Blue/Drafting Studio.md",
-    "Red Letters/Two.md",
     "Screenshots/Pasted image 20250822224030.png",
     "Screenshots/Pasted image 20250822224017.png",
     "Puzzles/Grid Letters.md",
@@ -290,7 +290,6 @@
     "Screenshots/Pasted image 20250822215017.png",
     "Screenshots/Pasted image 20250822214911.png",
     "Screenshots/Pasted image 20250822214824.png",
-    "Screenshots/Pasted image 20250822214738.png",
     "Rooms/Outside/Shrine.md",
     "Rooms/Classrooms/Classroom 4.md",
     "Rooms/Green/Cloister.md",
