@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Room 46.md",
+                "file": "Rooms/Green/Secret Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room 46"
+              "title": "Secret Garden"
             }
           }
         ],
@@ -272,6 +272,8 @@
   },
   "active": "304d4d167a75b8db",
   "lastOpenFiles": [
+    "Rooms/Room 46.md",
+    "Rooms/Green/Secret Garden.md",
     "Rooms/Blue/Mail Room.md",
     "Rooms/Blue/Study.md",
     "Red Letters/Two.md",
@@ -306,8 +308,6 @@
     "Rooms/Classrooms/Classroom 3.md",
     "Books/EPCW Pump System User Manual.md",
     "Rooms/Blue/Pump Room.md",
-    "Rooms/Room 46.md",
-    "Red Letters/Eight.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
