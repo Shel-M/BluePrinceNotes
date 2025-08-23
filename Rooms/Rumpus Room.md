@@ -15,7 +15,7 @@ I see a darkened cloud of ruin, familiar to us both. Now decrepit, rundown, and 
 I see eight red envelopes on eight pedestals
 In these I see eight letters penned by eight hands, eight letters of which you will only ever find  7
 Just like the art of these rooms, there is a letter missing
-
+-
 I see a shadow in the doorway (dark room) Silent footsteps in the hallways... An unlatched gate, you did not open. 
 A missing item you did not take (Entry hall, the lantern on the table is missing)
 I see a young boy watched from afar.
