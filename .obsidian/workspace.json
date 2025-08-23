@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Gallery.md",
+                "file": "Rooms/Red/Closed Exhibit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gallery"
+              "title": "Closed Exhibit"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "cf199b04c7bf63c1",
   "lastOpenFiles": [
-    "Rooms/Blue/Mail Room.md",
+    "Screenshots/Pasted image 20250823020954.png",
     "Rooms/Blue/Gallery.md",
+    "Rooms/Red/Closed Exhibit.md",
+    "Rooms/Blue/Mail Room.md",
     "Puzzles/Grid Letters.md",
     "Screenshots/Pasted image 20250823001236.png",
     "Screenshots/Pasted image 20250823001156.png",
@@ -222,8 +224,6 @@
     "Rooms/Classrooms/Classroom 7.md",
     "Rooms/Blue/Clock Tower.md",
     "Rooms/Conservatory.md",
-    "Rooms/Security.md",
-    "Rooms/Laboratory.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
