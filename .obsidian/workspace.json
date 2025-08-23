@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Mail Room.md",
+                "file": "Rooms/Blue/Gallery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mail Room"
+              "title": "Gallery"
             }
           }
         ],
@@ -188,8 +188,9 @@
   },
   "active": "cf199b04c7bf63c1",
   "lastOpenFiles": [
-    "Puzzles/Grid Letters.md",
     "Rooms/Blue/Mail Room.md",
+    "Rooms/Blue/Gallery.md",
+    "Puzzles/Grid Letters.md",
     "Screenshots/Pasted image 20250823001236.png",
     "Screenshots/Pasted image 20250823001156.png",
     "Screenshots/Pasted image 20250823001139.png",
