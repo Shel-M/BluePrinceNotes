@@ -4,4 +4,8 @@
  ![[Pasted image 20250822214738.png]]
  ![[Pasted image 20250822214824.png]]
  ![[Pasted image 20250822214911.png]]
+ ![[Pasted image 20250822215017.png]]
+ ![[Pasted image 20250822215128.png]]
+ ![[Pasted image 20250822215223.png]]
+ ![[Pasted image 20250822215233.png]]
  
