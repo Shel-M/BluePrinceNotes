@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Classrooms/Classroom 4.md",
+                "file": "Books/History of Orindia - First Edition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classroom 4"
+              "title": "History of Orindia - First Edition"
             }
           }
         ],
@@ -258,10 +258,18 @@
   },
   "active": "0f77f6c79b5fedb1",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250822214911.png",
+    "Screenshots/Pasted image 20250822214824.png",
+    "Screenshots/Pasted image 20250822214738.png",
+    "Screenshots/Pasted image 20250822214656.png",
+    "Screenshots/Pasted image 20250822214618.png",
+    "Screenshots/Pasted image 20250822214604.png",
+    "Rooms/Outside/Shrine.md",
+    "Books/History of Orindia - First Edition.md",
+    "Rooms/Classrooms/Classroom 4.md",
+    "Screenshots/Pasted image 20250802002101.png",
     "Screenshots/Pasted image 20250802002237.png",
     "Screenshots/Pasted image 20250802002130.png",
-    "Screenshots/Pasted image 20250802002101.png",
-    "Rooms/Outside/Shrine.md",
     "Terminal password options.md",
     "Rooms/Green/Cloister.md",
     "Screenshots/Pasted image 20250801233708.png",
@@ -272,15 +280,9 @@
     "Rooms/Classrooms/Classroom 5.md",
     "Rooms/Classrooms/Classroom 7.md",
     "Screenshots/Pasted image 20250801230238.png",
-    "Screenshots/Pasted image 20250801230224.png",
-    "Screenshots/Pasted image 20250801230214.png",
     "Rooms/Blue/Clock Tower.md",
     "Rooms/Conservatory.md",
     "Rooms/Security.md",
-    "Screenshots/Pasted image 20250801230149.png",
-    "Screenshots/Pasted image 20250801230134.png",
-    "Screenshots/Pasted image 20250801230104.png",
-    "Screenshots/Pasted image 20250801230037.png",
     "Rooms/Laboratory.md",
     "Rooms/Classrooms/Classroom 3.md",
     "Books/EPCW Pump System User Manual.md",
@@ -292,8 +294,6 @@
     "Rooms/Brown/Foyer.md",
     "Rooms/Entrance Hall.md",
     "Rooms/Blue/Ballroom.md",
-    "Rooms/Hovel.md",
-    "Rooms/Classrooms/Classroom 2.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
