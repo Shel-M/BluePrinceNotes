@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Green/Secret Garden.md",
+                "file": "Rooms/Green/Solarium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secret Garden"
+              "title": "Solarium"
             }
           }
         ],
@@ -272,8 +272,10 @@
   },
   "active": "304d4d167a75b8db",
   "lastOpenFiles": [
-    "Rooms/Room 46.md",
+    "Screenshots/Pasted image 20250822233414.png",
     "Rooms/Green/Secret Garden.md",
+    "Rooms/Green/Solarium.md",
+    "Rooms/Room 46.md",
     "Rooms/Blue/Mail Room.md",
     "Rooms/Blue/Study.md",
     "Red Letters/Two.md",
@@ -306,8 +308,6 @@
     "Rooms/Security.md",
     "Rooms/Laboratory.md",
     "Rooms/Classrooms/Classroom 3.md",
-    "Books/EPCW Pump System User Manual.md",
-    "Rooms/Blue/Pump Room.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
