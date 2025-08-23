@@ -9,7 +9,7 @@ I hear the wind blowing, but the flag does not stir.
 I see a door marked by a rogue moon. A door that is always locked, but has no key. 
 It is the door you are searching for, but can not find.
 It is beyond the dark waters???
-
+-
 And as it was foretold.... 
 I see a darkened cloud of ruin, familiar to us both. Now decrepit, rundown, and in disrepair.
 I see eight red envelopes on eight pedestals
@@ -21,9 +21,20 @@ A missing item you did not take (Entry hall, the lantern on the table is missing
 I see a young boy watched from afar.
 A young boy who once was brave, but now, afraid...
 What you have heard here has been foreseen
-
+-
 And as it was foretold...
 The image is becoming clear. I hear the pattering steps of children running in the forest. 
 The joyful echos of laughter in the corridor. I see an old man, an old man sitting in an older char.
 A seat that has served many generations. Each with their own stories, each with their own secrets, each with their own endings. 
 But all, in the same chair.
+-
+And as it was foretold...
+Faintly in the mist... I see a figure.  
+A statue cradled in a courtyard of sentinel stone.  
+You will find yourself one day wandering these paths.  
+Walking in the footsteps of the past,  
+Wandering... and waiting.  
+Searching for a shadow that will never be cast.  
+Longing for the day to end... The hours to past. 
+
+12:15 on the clock. 
