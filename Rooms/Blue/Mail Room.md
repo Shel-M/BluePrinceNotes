@@ -18,3 +18,7 @@ Letter From Randolph
 ![[Pasted image 20250823001156.png]]
 ![[Pasted image 20250823001236.png]]
 ![[Pasted image 20250906022604.png]]
+![[Pasted image 20250906022734.png]]
+![[Pasted image 20250906022849.png]]
+![[Pasted image 20250906022859.png]]
+![[Pasted image 20250906022907.png]]
