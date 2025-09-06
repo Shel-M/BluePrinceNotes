@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,8 +243,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8129f4d0bd331c41",
+  "active": "47b02786c295725e",
   "lastOpenFiles": [
+    "Rooms/Blue/Vault.md",
     "Screenshots/Pasted image 20250906013835.png",
     "Rooms/Outside/Shrine.md",
     "Rooms/Tomb.md",
@@ -267,9 +268,7 @@
     "Screenshots/Pasted image 20250829230121.png",
     "Screenshots/Pasted image 20250829230100.png",
     "Screenshots/Pasted image 20250829230045.png",
-    "Rooms/Blue/Vault.md",
     "Rooms/Red/Closed Exhibit.md",
-    "Screenshots/Pasted image 20250823020954.png",
     "Rooms/Blue/Gallery.md",
     "Rooms/Blue/Mail Room.md",
     "Puzzles/Grid Letters.md",
