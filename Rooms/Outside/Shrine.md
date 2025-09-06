@@ -1,5 +1,5 @@
-
-4 - High Roller
+3 - High Roller 
+4 - High Roller + 3 days
 5 - Blessing of the Gardener
 6 - The blessing of the Gardener +3 days
 
