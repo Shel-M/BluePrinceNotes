@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Tomb.md",
+                "file": "Rooms/Outside/Shrine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomb"
+              "title": "Shrine"
             }
           }
         ],
@@ -245,6 +245,7 @@
   },
   "active": "8129f4d0bd331c41",
   "lastOpenFiles": [
+    "Rooms/Tomb.md",
     "Screenshots/Pasted image 20250906002149.png",
     "Rooms/Outside/Shrine.md",
     "Rooms/Classrooms/Exam.md",
@@ -271,7 +272,6 @@
     "Rooms/Blue/Gallery.md",
     "Rooms/Blue/Mail Room.md",
     "Puzzles/Grid Letters.md",
-    "Screenshots/Pasted image 20250823001236.png",
     "Books/Realm & Rune.md",
     "Books/History of Orindia - Censored.md",
     "Sheet Music.md",
