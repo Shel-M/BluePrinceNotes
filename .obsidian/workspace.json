@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Mail Room.md",
+                "file": "Red Letters/One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mail Room"
+              "title": "One"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "47b02786c295725e",
   "lastOpenFiles": [
+    "Rooms/Blue/Mail Room.md",
+    "Red Letters/One.md",
     "Screenshots/Pasted image 20250906022907.png",
     "Screenshots/Pasted image 20250906022859.png",
     "Screenshots/Pasted image 20250906022849.png",
@@ -257,7 +259,6 @@
     "Screenshots/Pasted image 20250906021450.png",
     "Screenshots/Pasted image 20250906021422.png",
     "Screenshots/Pasted image 20250906021308.png",
-    "Screenshots/Pasted image 20250906021227.png",
     "Rooms/Classrooms/Classroom 2.md",
     "Rooms/Blue/Vault.md",
     "Rooms/Outside/Shrine.md",
@@ -273,7 +274,6 @@
     "Angels.md",
     "Rooms/Red/Closed Exhibit.md",
     "Rooms/Blue/Gallery.md",
-    "Rooms/Blue/Mail Room.md",
     "Puzzles/Grid Letters.md",
     "Books/Realm & Rune.md",
     "Books/History of Orindia - Censored.md",
