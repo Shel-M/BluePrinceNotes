@@ -1,6 +1,7 @@
 ![[Pasted image 20250802002101.png]]
 ![[Pasted image 20250802002130.png]]
 ![[Pasted image 20250802002237.png]]
+This one is almost right, the bottom two, Eraja (hourglass) and Nuance (diamond) are swapped
 ![[Pasted image 20250627212339.png]]
 ![[Pasted image 20250627212354.png]]
 ![[Pasted image 20250627212411.png]]
