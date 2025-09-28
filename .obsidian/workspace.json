@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Oris.md",
+                "file": "Countries/Eraja.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oris"
+              "title": "Eraja"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -271,13 +271,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47b02786c295725e",
+  "active": "c5f07f366d178673",
   "lastOpenFiles": [
+    "Countries/Eraja.md",
+    "Rooms/Classrooms/Classroom 8.md",
+    "Screenshots/Pasted image 20250927235909.png",
+    "Countries/Oris.md",
+    "Books/Realm & Rune.md",
     "Books/History of Orindia - First Edition.md",
     "Rooms/Classrooms/Classroom 4.md",
     "Rooms/Classrooms/Classroom 6.md",
-    "Books/Realm & Rune.md",
-    "Countries/Oris.md",
     "Screenshots/Pasted image 20250927234129.png",
     "Countries/Arch Aries.md",
     "Rooms/Classrooms/Classroom 7.md",
@@ -297,19 +300,16 @@
     "Screenshots/Pasted image 20250927224617.png",
     "Screenshots/Pasted image 20250927224515.png",
     "Screenshots/Pasted image 20250927224456.png",
-    "Screenshots/Pasted image 20250927224419.png",
     "Rooms/Underground/Reservoir.md",
     "Rooms/Black/Treasure Trove.md",
     "Books/Swim Bird.md",
     "Rooms/Black",
-    "Rooms/Classrooms/Classroom 8.md",
     "Rooms/Blue/Mail Room.md",
     "Red Letters/Five.md",
     "Rooms/Blue/Dovecote.md",
     "Rooms/Classrooms/Classroom 2.md",
     "Rooms/Outside/Shrine.md",
     "Rooms/Tomb.md",
-    "Rooms/Classrooms/Exam.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
