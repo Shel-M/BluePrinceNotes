@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Arch Aries.md",
+                "file": "Books/Realm & Rune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Aries"
+              "title": "Realm & Rune"
             }
           },
           {
@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "Classroom 8"
             }
+          },
+          {
+            "id": "6d703c26aeeeaf6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countries/Oris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oris"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,19 +285,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47b02786c295725e",
+  "active": "cf199b04c7bf63c1",
   "lastOpenFiles": [
-    "Books/History of Orindia - First Edition.md",
-    "Countries/Arch Aries.md",
-    "Books/Realm & Rune.md",
-    "Countries",
     "Rooms/Classrooms/Classroom 6.md",
+    "Countries/Oris.md",
+    "Screenshots/Pasted image 20250927234129.png",
+    "Books/Realm & Rune.md",
+    "Countries/Arch Aries.md",
+    "Books/History of Orindia - First Edition.md",
+    "Rooms/Classrooms/Classroom 7.md",
+    "Screenshots/Pasted image 20250927233736.png",
+    "Countries",
     "Rooms/Classrooms/Classroom 4.md",
     "Rooms/Outside/Safehouse.md",
     "Books/A New Clue.md",
     "Rooms/Blue/Vault.md",
     "Red Letters/One.md",
-    "Rooms/Classrooms/Classroom 7.md",
     "Untitled.md",
     "Untitled 1.md",
     "Screenshots/Pasted image 20250927225613.png",
@@ -295,8 +312,6 @@
     "Screenshots/Pasted image 20250927224515.png",
     "Screenshots/Pasted image 20250927224456.png",
     "Screenshots/Pasted image 20250927224419.png",
-    "Screenshots/Pasted image 20250927224402.png",
-    "Screenshots/Pasted image 20250927224340.png",
     "Rooms/Underground/Reservoir.md",
     "Rooms/Black/Treasure Trove.md",
     "Books/Swim Bird.md",
@@ -309,8 +324,6 @@
     "Rooms/Outside/Shrine.md",
     "Rooms/Tomb.md",
     "Rooms/Classrooms/Exam.md",
-    "Rooms/Room 46.md",
-    "Rooms/Classrooms/Classroom 5.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
