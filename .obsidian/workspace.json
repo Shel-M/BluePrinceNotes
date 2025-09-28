@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A New Clue.md",
+                "file": "Rooms/Black/Treasure Trove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A New Clue"
+              "title": "Treasure Trove"
             }
           },
           {
@@ -273,6 +273,12 @@
   },
   "active": "8129f4d0bd331c41",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250927221413.png",
+    "Books/Swim Bird.md",
+    "Rooms/Black/Treasure Trove.md",
+    "Rooms/Black",
+    "Rooms/Underground/Reservoir.md",
+    "Books/A New Clue.md",
     "Screenshots/Pasted image 20250927220451.png",
     "Screenshots/Pasted image 20250927220439.png",
     "Screenshots/Pasted image 20250927220412.png",
@@ -283,10 +289,7 @@
     "Screenshots/Pasted image 20250927220243.png",
     "Screenshots/Pasted image 20250927220154.png",
     "Screenshots/Pasted image 20250927220143.png",
-    "Screenshots/Pasted image 20250927220104.png",
     "Rooms/Blue/Vault.md",
-    "Books/A New Clue.md",
-    "Rooms/Underground/Reservoir.md",
     "Rooms/Classrooms/Classroom 8.md",
     "Rooms/Classrooms/Classroom 7.md",
     "Red Letters/One.md",
@@ -307,8 +310,6 @@
     "Rooms/Blue/Gallery.md",
     "Puzzles/Grid Letters.md",
     "Books/Realm & Rune.md",
-    "Books/History of Orindia - Censored.md",
-    "Sheet Music.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
@@ -317,7 +318,6 @@
     "Books",
     "Rooms/Outside",
     "Rooms/Yellow",
-    "Rooms/Blue",
-    "People"
+    "Rooms/Blue"
   ]
 }
