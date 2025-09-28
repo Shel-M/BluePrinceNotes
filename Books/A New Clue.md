@@ -42,10 +42,25 @@ Charles Riscal, Age 12
 Christoph Clarke, Age 25
 "
 
-"Ma jor" > "Small Name" in Erajan
+This page has a bunch of stuff
+![[Pasted image 20250927220412.png]]
+
+"Ma | jor" > "Small Name" in Erajan? "Bo Lee"? Smallest name, and he's under age - a minor?
 
 ![[Pasted image 20250928013632.png]]
 this shot is of this text
 ![[Pasted image 20250927220051.png]]
 - "Library" is circled
-- "Covers" is underlg
+- "Covers" is underlined and points to a table
+Red | Page A | Word X
+Green | Page C | Word A
+Violet | Pace B | Word Y
+Blue | Page Z | Word X
+- "Assume page count starts on title pages"
+- "the way" boxed, points to "X -> Y -> Z -> A -> B -> C"
+
+Another note that says 
+"Dead end
+~
+Major key"
+with an arrow on "Dead end" pointing to a red C in the sequence "X Y Z A B <u>C</u>"
