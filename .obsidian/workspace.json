@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Vault.md",
+                "file": "Books/A New Clue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "A New Clue"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,25 +271,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c5f07f366d178673",
+  "active": "8129f4d0bd331c41",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20250927220451.png",
+    "Screenshots/Pasted image 20250927220439.png",
+    "Screenshots/Pasted image 20250927220412.png",
+    "Screenshots/Pasted image 20250927220401.png",
+    "Screenshots/Pasted image 20250927220347.png",
+    "Screenshots/Pasted image 20250927220337.png",
+    "Screenshots/Pasted image 20250927220256.png",
+    "Screenshots/Pasted image 20250927220243.png",
+    "Screenshots/Pasted image 20250927220154.png",
+    "Screenshots/Pasted image 20250927220143.png",
+    "Screenshots/Pasted image 20250927220104.png",
+    "Rooms/Blue/Vault.md",
+    "Books/A New Clue.md",
+    "Rooms/Underground/Reservoir.md",
+    "Rooms/Classrooms/Classroom 8.md",
     "Rooms/Classrooms/Classroom 7.md",
     "Red Letters/One.md",
-    "Rooms/Blue/Vault.md",
     "Books/History of Orindia - First Edition.md",
     "Rooms/Classrooms/Classroom 4.md",
-    "Rooms/Underground/Reservoir.md",
-    "Screenshots/Pasted image 20250906030004.png",
-    "Screenshots/Pasted image 20250906025738.png",
-    "Screenshots/Pasted image 20250906025725.png",
-    "Screenshots/Pasted image 20250906025714.png",
-    "Screenshots/Pasted image 20250906025704.png",
     "Rooms/Blue/Mail Room.md",
-    "Screenshots/Pasted image 20250906022907.png",
-    "Screenshots/Pasted image 20250906022859.png",
-    "Screenshots/Pasted image 20250906022849.png",
-    "Screenshots/Pasted image 20250906022734.png",
-    "Screenshots/Pasted image 20250906022604.png",
     "Red Letters/Five.md",
     "Rooms/Blue/Dovecote.md",
     "Rooms/Classrooms/Classroom 2.md",
@@ -297,7 +300,6 @@
     "Rooms/Tomb.md",
     "Rooms/Classrooms/Exam.md",
     "Rooms/Classrooms/Classroom 6.md",
-    "Rooms/Classrooms/Classroom 8.md",
     "Rooms/Room 46.md",
     "Rooms/Classrooms/Classroom 5.md",
     "Angels.md",
@@ -307,8 +309,6 @@
     "Books/Realm & Rune.md",
     "Books/History of Orindia - Censored.md",
     "Sheet Music.md",
-    "Rooms/Green/Cloister.md",
-    "Rooms/Blue/Study.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
