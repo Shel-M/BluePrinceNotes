@@ -111,16 +111,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Nuance.md",
+                "file": "Rooms/Room 46.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuance"
+              "title": "Room 46"
+            }
+          },
+          {
+            "id": "2ec5c3aa7940a544",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -271,24 +281,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6d703c26aeeeaf6b",
+  "active": "2ec5c3aa7940a544",
   "lastOpenFiles": [
+    "Rooms/Classrooms/Classroom 4.md",
+    "Rooms/Classrooms/Classroom 6.md",
     "Books/Realm & Rune.md",
+    "Books/A New Clue.md",
+    "Rooms/Room 46.md",
     "Countries/Nuance.md",
+    "Screenshots/Pasted image 20250928002859.png",
     "Countries/Eraja.md",
     "Rooms/Classrooms/Classroom 8.md",
     "Screenshots/Pasted image 20250927235909.png",
     "Countries/Oris.md",
     "Books/History of Orindia - First Edition.md",
-    "Rooms/Classrooms/Classroom 4.md",
-    "Rooms/Classrooms/Classroom 6.md",
     "Screenshots/Pasted image 20250927234129.png",
     "Countries/Arch Aries.md",
     "Rooms/Classrooms/Classroom 7.md",
     "Screenshots/Pasted image 20250927233736.png",
     "Countries",
     "Rooms/Outside/Safehouse.md",
-    "Books/A New Clue.md",
     "Rooms/Blue/Vault.md",
     "Red Letters/One.md",
     "Untitled.md",
@@ -300,7 +312,6 @@
     "Screenshots/Pasted image 20250927224635.png",
     "Screenshots/Pasted image 20250927224617.png",
     "Screenshots/Pasted image 20250927224515.png",
-    "Screenshots/Pasted image 20250927224456.png",
     "Rooms/Underground/Reservoir.md",
     "Rooms/Black/Treasure Trove.md",
     "Books/Swim Bird.md",
@@ -310,7 +321,6 @@
     "Rooms/Blue/Dovecote.md",
     "Rooms/Classrooms/Classroom 2.md",
     "Rooms/Outside/Shrine.md",
-    "Rooms/Tomb.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
