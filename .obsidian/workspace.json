@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Blue/Vault.md",
+                "file": "Rooms/Classrooms/Classroom 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "Classroom 6"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Classrooms/Classroom 7.md",
+                "file": "Books/History of Orindia - First Edition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classroom 7"
+              "title": "History of Orindia - First Edition"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Letters/One.md",
+                "file": "Books/Realm & Rune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One"
+              "title": "Realm & Rune"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,10 +271,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e99d10a8e13d1128",
+  "active": "61051e8ff50fa97f",
   "lastOpenFiles": [
-    "Books/A New Clue.md",
+    "Books/Realm & Rune.md",
+    "Books/History of Orindia - First Edition.md",
+    "Rooms/Classrooms/Classroom 6.md",
+    "Rooms/Blue/Vault.md",
+    "Rooms/Classrooms/Classroom 4.md",
+    "Red Letters/One.md",
+    "Rooms/Classrooms/Classroom 7.md",
     "Rooms/Outside/Safehouse.md",
+    "Books/A New Clue.md",
     "Untitled.md",
     "Untitled 1.md",
     "Screenshots/Pasted image 20250927225613.png",
@@ -292,12 +299,7 @@
     "Rooms/Black/Treasure Trove.md",
     "Books/Swim Bird.md",
     "Rooms/Black",
-    "Rooms/Blue/Vault.md",
     "Rooms/Classrooms/Classroom 8.md",
-    "Rooms/Classrooms/Classroom 7.md",
-    "Red Letters/One.md",
-    "Books/History of Orindia - First Edition.md",
-    "Rooms/Classrooms/Classroom 4.md",
     "Rooms/Blue/Mail Room.md",
     "Red Letters/Five.md",
     "Rooms/Blue/Dovecote.md",
@@ -305,11 +307,9 @@
     "Rooms/Outside/Shrine.md",
     "Rooms/Tomb.md",
     "Rooms/Classrooms/Exam.md",
-    "Rooms/Classrooms/Classroom 6.md",
     "Rooms/Room 46.md",
     "Rooms/Classrooms/Classroom 5.md",
     "Angels.md",
-    "Rooms/Red/Closed Exhibit.md",
     "Red Letters",
     "Rooms/Underground",
     "Puzzles",
