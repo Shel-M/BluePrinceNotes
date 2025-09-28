@@ -27,3 +27,25 @@
 ![[Pasted image 20250927220412.png]]
 ![[Pasted image 20250927220439.png]]
 ![[Pasted image 20250927220451.png]]
+
+
+Magnifying Glass Images
+---
+"
+Suspect List
+Rose Bali, Age 50
+Richard Scott, Age 12
+Frond Mayford, Age 32
+Sandra Dillon, Age 14
+Bo Lee, Age 16
+Charles Riscal, Age 12
+Christoph Clarke, Age 25
+"
+
+"Ma jor" > "Small Name" in Erajan
+
+![[Pasted image 20250928013632.png]]
+this shot is of this text
+![[Pasted image 20250927220051.png]]
+- "Library" is circled
+- "Covers" is underlg
